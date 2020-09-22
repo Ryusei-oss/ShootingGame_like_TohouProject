@@ -1,0 +1,11 @@
+Number,x,y,z,hp,Move pattern,Danmaku pattern,Image,apper_time
+1,290,20,2,100,2,2,images/enemy/enemy1.png,50
+2,70,0,2,100,3,3,images/enemy/enemy3.png,250
+3,240,0,2,100,3,3,images/enemy/enemy3.png,250
+4,430,0,2,100,3,3,images/enemy/enemy3.png,250
+5,80,20,2,100,4,4,images/enemy/enemy4.png,700
+6,400,20,2,100,4,4,images/enemy/enemy4.png,700
+7,80,0,2,100,3,1,images/enemy/enemy1.png,1200
+8,240,0,2,100,3,2,images/enemy/enemy2.png,1210
+9,360,0,2,100,3,3,images/enemy/enemy3.png,1220
+10,500,0,2,100,3,4,images/enemy/enemy4.png,1230
